@@ -1,5 +1,5 @@
 ./fixfinder.bash
 	Adjusts OS X Finder things
 
-./restoredock.bash
+./restorefinder.bash
 	Restores Finder to original settings
