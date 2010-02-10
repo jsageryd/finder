@@ -1,7 +1,8 @@
 Finder fix
 ===================
 
-This makes Finder in OS X display the full path to the current directory in the title bar.
+- Display the full path to the current directory in the title bar
+- Show folder contents in Quick Look
 
 
 Usage
